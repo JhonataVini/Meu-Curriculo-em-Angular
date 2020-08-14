@@ -1,0 +1,19 @@
+.recuo { 
+    text-indent:2em;
+    text-align: justify;
+  }
+  .container {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    text-align: justify;
+  }
+  .footer {
+    margin-top: 8px;
+    align-items: center;
+    line-height: 20px;
+    display: flex;
+  }
+  img.logo{
+    width: 50px;
+    height: 50px;
+  }
